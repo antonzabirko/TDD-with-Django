@@ -1,0 +1,5 @@
+"db.sqlite3" 
+"geckodriver.log" 
+".idea/" 
+"__pycache__" 
+"*.pyc" 
